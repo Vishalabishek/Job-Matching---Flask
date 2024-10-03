@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Recommendation</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Job Recommendation</h1>
+        <form id="jobForm">
+            <label for="skills">Enter Your Skills (comma-separated):</label>
+            <input type="text" id="skills" name="skills" placeholder="e.g. Python, Java, SQL" required>
+
+            <button type="submit">Get Recommendations</button>
+        </form>
+
+        <div class="results" id="results"></div>
+    </div>
+
+    <script>
+        document.getElementById('jobForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const skills = document.getElementById('skills').value.split(',').map(skill => skill.trim());
+
+            fetch('/recommend', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ skills }),
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                const resultsDiv = document.getElementById('results');
+                resultsDiv.innerHTML = ''; // Clear previous results
+                if (data.length > 0) {
+                    data.forEach(job => {
+                        const jobItem = document.createElement('div');
+                        jobItem.classList.add('job-item');
+                        jobItem.innerHTML = `<strong>${job['Job Title']}</strong><br>Similarity Score: ${job['Similarity'].toFixed(2)}`;
+                        resultsDiv.appendChild(jobItem);
+                    });
+                } else {
+                    resultsDiv.innerHTML = '<p>No jobs found matching your skills.</p>';
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('results').innerHTML = '<p>An error occurred while fetching job recommendations.</p>';
+            });
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,1567 @@
+Job Title,Python,Java,C++,SQL,HTML,CSS,JavaScript,React,Git,Agile,Machine Learning,Operating Systems,Version Control,Cloud Platforms,Containerization,Data Structures & Algorithms,API Development,Microservices Architecture,Cybersecurity,Big Data,CI/CD Pipelines
+Software Developer,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes
+Full Stack Developer,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Backend Developer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Frontend Developer,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes
+Mobile App Developer,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+DevOps Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Data Scientist,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No
+Data Analyst,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,No
+Machine Learning Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No
+Cybersecurity Analyst,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+Cloud Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Cloud Architect,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Game Developer,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Blockchain Developer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Database Administrator,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Network Administrator,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+Systems Administrator,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Cloud Security Engineer,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Data Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Big Data Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Embedded Systems Engineer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+DevOps Engineer,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Site Reliability Engineer (SRE),Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Cybersecurity Consultant,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+Robotics Engineer,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes
+AI Researcher,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No
+AR/VR Developer,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes
+Firmware Engineer,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes
+Quantum Computing Researcher,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No
+Cloud Solutions Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+AI-Powered Product Manager,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No
+Quantum Machine Learning Engineer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No
+IT Consultant,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes
+Software Architect,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Blockchain Architect,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Penetration Tester,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+Cryptographer,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+Technical Support Specialist,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+IT Project Manager,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+Business Intelligence Analyst,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Web Developer,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes
+UI/UX Designer,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No
+Firmware Developer,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No
+Game Engine Developer,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes
+Mobile App Architect,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+Software Test Engineer,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes
+Quality Assurance (QA) Engineer,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes
+UI Engineer,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes
+UX Engineer,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No
+Information Security Analyst,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+Systems Analyst,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Network Engineer,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+Data Privacy Officer,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+Data Architect,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No
+Automation Engineer,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Virtualization Engineer,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Cloud Infrastructure Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Manager,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+IT Support Specialist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+Technical Writer,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No
+Ethical Hacker,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+Information Security Manager,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+IT Auditor,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+Network Architect,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+IT Compliance Specialist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+Incident Response Analyst,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+Disaster Recovery Specialist,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+Chief Information Officer (CIO),No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+Chief Technology Officer (CTO),No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Software Engineering Manager,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Database Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No
+Security Operations Center (SOC) Analyst,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+Site Reliability Engineer (SRE),Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Solutions Architect,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Technical Account Manager,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes
+Big Data Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Natural Language Processing (NLP) Engineer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Artificial Intelligence Engineer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Machine Learning Research Scientist,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Deep Learning Engineer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Data Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Mobile Security Engineer,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+Application Security Engineer,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+IoT Security Engineer,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Cybersecurity Consultant,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+Security Engineer,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+Malware Analyst,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+Database Administrator,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
+DevOps Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+DevSecOps Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Backend Developer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Frontend Developer,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes
+Robotics Software Engineer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No
+Embedded Software Developer,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No
+Computer Vision Engineer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No
+Deep Learning Researcher,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Audio Processing Engineer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No
+Signal Processing Engineer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No
+Systems Programmer,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Microcontroller Developer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No
+Hardware Engineer,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+Machine Learning Operations (MLOps) Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Natural Language Processing (NLP) Scientist,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No
+Image Processing Engineer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No
+Computational Neuroscientist,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No
+Bioinformatics Software Developer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No
+Genomics Data Scientist,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No
+Bioinformatics Scientist,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No
+Cloud Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Kubernetes Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Infrastructure Engineer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Digital Twin Engineer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No
+Computational Chemist,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+Blockchain Developer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Quantum Computing Researcher,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No
+AI Research Scientist,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Augmented Reality (AR) Developer,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Virtual Reality (VR) Developer,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Embedded Systems Engineer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No
+IT Consultant,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No
+Enterprise Architect,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Project Manager,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Product Manager,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Technical Product Manager,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Solutions Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Cloud Security Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Cybersecurity Analyst,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+IT Security Consultant,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+Security Architect,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+Security Operations Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+Incident Response Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+Disaster Recovery Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+IT Risk Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+IT Governance Specialist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+Compliance Analyst,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+Business Intelligence Analyst,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes
+BI Developer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes
+Data Scientist,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Data Analyst,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+Data Visualization Specialist,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No
+Big Data Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Data Warehouse Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+DataOps Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+ETL Developer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No
+Integration Developer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Integration Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Platform Engineer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+System Integrator,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+User Experience (UX) Designer,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes
+User Interface (UI) Designer,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes
+Web Designer,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes
+UX Researcher,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+Product Designer,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes
+Business Analyst,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+Functional Consultant,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+Change Management Specialist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+Data Privacy Officer,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No
+Data Protection Specialist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No
+Compliance Officer,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No
+Legal Technologist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No
+IT Auditor,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No
+IT Compliance Analyst,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No
+IT Risk Analyst,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No
+Data Risk Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No
+IT Strategy Consultant,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Strategy Manager,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Director,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Chief Information Officer (CIO),No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Chief Technology Officer (CTO),Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Chief Data Officer (CDO),Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Chief Information Security Officer (CISO),Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+IT Business Partner,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No
+IT Program Manager,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Operations Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+IT Systems Analyst,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+IT Solutions Architect,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Service Manager,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Service Desk Analyst,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Technical Support Specialist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Help Desk Coordinator,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Help Desk Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes
+IT Director of Operations,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Compliance Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No
+Cloud Operations Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Cloud DevOps Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Cloud Security Architect,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+DevOps Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Site Reliability Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Systems Engineer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Systems Administrator,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+IT Operations Analyst,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+IT Support Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes
+IT Service Delivery Manager,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Asset Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Procurement Specialist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Business Intelligence Analyst,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+IT Data Analyst,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+IT Data Scientist,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+IT Data Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Research Scientist,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Business Systems Analyst,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No
+IT Solutions Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Product Manager,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Project Manager,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Program Director,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Vendor Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Account Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Service Management Specialist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Service Delivery Lead,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Service Delivery Specialist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Configuration Manager,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Configuration Analyst,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Release Manager,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Deployment Specialist,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Operations Coordinator,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+IT Systems Administrator,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+IT Systems Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+IT Systems Architect,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Infrastructure Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Infrastructure Architect,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Operations Lead,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+IT Technical Project Manager,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Automation Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Automation Architect,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Integration Specialist,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+IT Integration Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Integration Manager,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+IT QA Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+IT QA Lead,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+IT QA Manager,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+IT Security Analyst,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No
+IT Security Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+IT Security Manager,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+IT Security Director,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+IT Security Consultant,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No
+IT Security Operations Center (SOC) Analyst,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No
+IT Security Architect,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+IT Network Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+IT Network Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+IT Network Administrator,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+IT Network Manager,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Data Center Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Data Center Manager,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Data Center Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+IT Database Administrator,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+IT Data Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+IT Database Developer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+IT Database Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT DevOps Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT DevOps Manager,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT DevOps Architect,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Release Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Configuration Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Configuration Manager,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Cloud Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Cloud Architect,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Cloud Consultant,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+IT Cloud Manager,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+IT DevOps Lead,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT DevOps Specialist,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Automation Architect,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Systems Integration Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Systems Integration Specialist,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+IT Systems Integration Manager,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+IT Systems Integration Consultant,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+IT ITIL Specialist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT ITIL Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT ITIL Consultant,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT ITIL Lead,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Service Desk Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Service Desk Lead,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Help Desk Specialist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Help Desk Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Help Desk Lead,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Technical Support Specialist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Technical Support Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Technical Support Lead,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Technical Support Engineer,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Systems Support Specialist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Systems Support Engineer,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Systems Support Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Systems Support Lead,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Technical Support Analyst,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Systems Integration Specialist,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+DevOps Architect,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Cloud Solutions Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Blockchain Developer,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No
+Augmented Reality Developer,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No
+Virtual Reality Developer,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No
+Data Visualization Specialist,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No
+UI/UX Researcher,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Security Analyst,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No
+Network Security Engineer,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No
+Forensic Data Analyst,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No
+Bioinformatics Data Scientist,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+Computational Scientist,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Systems Programmer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+Research Software Engineer,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Systems Analysis Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+Embedded Software Engineer,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No
+High-Performance Computing Engineer,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Site Reliability Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Application Security Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Security Software Developer,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Cloud Solutions Architect,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+AI Research Scientist,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No
+NLP Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No
+Edge Computing Engineer,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Game Developer,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No
+DevSecOps Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Quantitative Analyst,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No
+Product Security Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Mobile Security Engineer,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No
+Security Operations Center (SOC) Analyst,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No
+Threat Intelligence Analyst,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No
+Security Architect,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Digital Forensics Investigator,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No
+Information Assurance Specialist,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No
+Web Security Specialist,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No
+Embedded Systems Architect,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No
+Autonomous Systems Engineer,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No
+IT Asset Management Specialist,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Systems Engineering Manager,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Data Governance Specialist,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+System Performance Engineer,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Platform Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Automation Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Technical Program Manager,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Digital Product Manager,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No
+DevOps Consultant,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Reliability Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Cloud Security Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Solution Architect,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Technical Account Manager,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Business Intelligence Developer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+Enterprise Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Operations Manager,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Digital Solutions Architect,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Application Performance Engineer,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Cloud Platform Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Containerization Specialist,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Kubernetes Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Compliance Specialist,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No
+IT Risk Manager,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No
+System Operations Analyst,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+IT Strategy Consultant,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Financial Analyst,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Innovation Manager,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No
+Data Warehouse Architect,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+E-commerce Developer,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No
+Artificial Intelligence Engineer,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+Research Engineer,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+High Performance Computing Specialist,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Infrastructure Manager,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Software Development Lead,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+Platform Security Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+IT Operations Analyst,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+IoT Engineer,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Blockchain Developer,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+IT Compliance Auditor,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No
+Cloud Migration Specialist,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Service Management Analyst,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Ethical Hacker,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No
+User Experience (UX) Researcher,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No
+Enterprise Resource Planning (ERP) Developer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+Robotic Process Automation (RPA) Developer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+Voice User Interface (VUI) Designer,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No
+Augmented Reality (AR) Developer,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No
+Virtual Reality (VR) Developer,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No
+Data Scientist,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+Predictive Analytics Specialist,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+DevOps Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Machine Learning Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+Algorithm Engineer,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+Systems Integration Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Consultant,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+Risk Management Analyst,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Technical Writer,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No
+IT Operations Director,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Telecommunications Specialist,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+Embedded Systems Engineer,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+CRM Developer,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No
+IT Project Coordinator,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+Data Governance Specialist,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Asset Manager,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+User Interface (UI) Designer,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No
+Data Integration Specialist,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+IT Security Analyst,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+IT Vendor Manager,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Compliance Analyst,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No
+IT Business Analyst,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+Software Quality Assurance (QA) Lead,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+Data Migration Specialist,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+IT Systems Administrator,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+IT Support Manager,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes
+Machine Learning Operations Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+System Design Engineer,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+IT Infrastructure Consultant,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+IT Support Specialist,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Service Delivery Manager,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+Technical Services Manager,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+Technology Adoption Specialist,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+Application Support Analyst,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Digital Transformation Consultant,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+IT Capacity Planner,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Data Center Technician,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Enterprise Architect,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Network Security Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No
+IT Budget Analyst,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Virtualization Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Disaster Recovery Specialist,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No
+Data Privacy Officer,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No
+SAP Consultant,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+System Monitoring Specialist,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+CRM Administrator,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No
+IT Service Delivery Lead,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+Technical Solutions Architect,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+IT Operations Coordinator,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+API Integration Specialist,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+Data Operations Specialist,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+Systems Analyst,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+Cloud Infrastructure Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Risk Manager,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No
+IT Training Specialist,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Network Administrator,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Systems Integration Consultant,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+IT Governance Specialist,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Digital Product Manager,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+Data Center Operations Manager,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+IT Audit Manager,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No
+IT Service Desk Manager,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Cloud Security Architect,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Data Scientist Manager,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+IT Asset Management Specialist,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Application Support Manager,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Compliance Manager,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No
+IT Strategy Lead,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Data Analytics Consultant,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+IT Business Process Analyst,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+IT Vendor Relations Manager,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+IT Performance Analyst,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Computer Engineer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Software Developer,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Systems Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Database Administrator,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No
+Network Engineer,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No
+Cloud Solutions Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Embedded Systems Engineer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+IT Support Specialist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No
+AI Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Cybersecurity Engineer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes
+Data Analyst,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No
+DevOps Specialist,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Full-Stack Developer,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Front-End Developer,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No
+Back-End Developer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Security Analyst,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes
+Systems Administrator,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No
+Blockchain Developer,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Robotics Engineer,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No
+Game Developer,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No
+Site Reliability Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Firmware Engineer,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+IT Project Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes
+Mobile Application Developer,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes
+DevSecOps Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Full-Stack Engineer,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Machine Learning Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Cloud Security Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Penetration Tester,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+IT Consultant,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No
+Game Designer,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+Cloud Automation Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+UX/UI Designer,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+Hardware Engineer,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+Cloud Infrastructure Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Ethical Hacker,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+Data Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+IT Security Manager,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes
+Software Quality Assurance,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes
+Application Security Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes
+Software Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Data Scientist,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Security Engineer,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Telecommunications Engineer,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No
+Software Test Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+System Integration Engineer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+VLSI Design Engineer,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No
+Web Developer,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No
+Blockchain Architect,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Software Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Web Application Developer,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes
+IT Operations Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No
+Virtualization Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Mobile UI Developer,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+Application Developer,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes
+Backend Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+IT Infrastructure Engineer,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Software Security Analyst,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes
+Embedded Software Developer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+Cybersecurity Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Software Integration Engineer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Test Automation Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes
+Data Protection Specialist,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+FPGA Engineer,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No
+Network Security Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Network Administrator,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+IT Project Manager,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes
+Security Operations Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Cloud Network Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Network Systems Engineer,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes
+Digital Forensics Analyst,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes
+Database Administrator,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No
+IT Service Manager,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No
+Systems Analyst,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes
+Penetration Tester,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No
+Security Architect,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Data Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Security Engineer,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Network Architect,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Cybersecurity Specialist,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Database Developer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Risk Analyst,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Data Scientist,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+IT Support Specialist,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No
+Cloud Application Developer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+IT Infrastructure Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Software Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Full Stack Developer,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+IT Solutions Architect,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Business Intelligence Analyst,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No
+Solutions Engineer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Infrastructure Architect,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Cloud Security Architect,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Technical Account Manager,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes
+System Security Engineer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Application Security Engineer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Cloud Engineer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Embedded Systems Engineer,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No
+Technical Support Engineer,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No
+Algorithm Engineer,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Automation Test Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes
+IT Asset Manager,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No
+Mobile Security Engineer,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No
+Digital Systems Engineer,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No
+Firmware Developer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No
+IT Auditor,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No
+Storage Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes
+Middleware Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Software Release Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Industrial Automation Engineer,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No
+Chief Information Security Officer (CISO),Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes
+IoT Solutions Architect,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Artificial Intelligence Researcher,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No
+Hardware Security Engineer,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+Network Optimization Engineer,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+Cloud Native Engineer,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Digital Transformation Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Edge Computing Engineer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Security Operations Manager,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No
+Data Warehouse Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+IT Process Engineer,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No
+IT Solutions Engineer,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+Software Development Manager,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Data Quality Analyst,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes
+Cyber Defense Analyst,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No
+Mobile App Developer,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No
+AI Engineer,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes
+Cybersecurity Analyst,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No
+Cloud Engineer,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes
+Cloud Engineer,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No
+Frontend Developer,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No
+Full Stack Developer,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes
+Data Scientist,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No
+Cloud Engineer,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No
+System Administrator,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No
+Software Engineer,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes
+Cloud Engineer,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes
+Mobile App Developer,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No
+Data Scientist,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No
+Frontend Developer,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+AI Engineer,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No
+Frontend Developer,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No
+Full Stack Developer,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes
+System Administrator,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes
+Database Administrator,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+System Administrator,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
+Cloud Engineer,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No
+Data Scientist,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes
+Backend Developer,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes
+Backend Developer,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes
+Frontend Developer,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No
+AI Engineer,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+Data Scientist,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No
+Database Administrator,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No
+Backend Developer,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes
+DevOps Engineer,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No
+AI Engineer,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes
+Frontend Developer,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Mobile App Developer,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No
+System Administrator,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No
+Backend Developer,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No
+Full Stack Developer,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes
+AI Engineer,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No
+AI Engineer,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes
+Software Engineer,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+Database Administrator,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes
+Frontend Developer,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No
+Mobile App Developer,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No
+Frontend Developer,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+Backend Developer,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+System Administrator,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes
+Mobile App Developer,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No
+Cloud Engineer,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+Backend Developer,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+Software Engineer,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+System Administrator,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No
+DevOps Engineer,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes
+Cybersecurity Analyst,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No
+System Administrator,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No
+Data Scientist,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No
+Mobile App Developer,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,Yes
+Database Administrator,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Cloud Engineer,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Mobile App Developer,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes
+AI Engineer,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No
+Full Stack Developer,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+Cloud Engineer,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes
+AI Engineer,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes
+Full Stack Developer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No
+Frontend Developer,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+Cybersecurity Analyst,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes
+AI Engineer,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+AI Engineer,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No
+Database Administrator,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+Software Engineer,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Frontend Developer,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No
+Full Stack Developer,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes
+Database Administrator,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No
+Software Engineer,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No
+AI Engineer,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+Frontend Developer,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Backend Developer,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes
+Database Administrator,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes
+AI Engineer,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes
+Frontend Developer,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes
+DevOps Engineer,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+Cloud Engineer,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes
+Software Engineer,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No
+Data Scientist,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No
+Software Engineer,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No
+AI Engineer,No,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+DevOps Engineer,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Backend Developer,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No
+Mobile App Developer,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes
+Frontend Developer,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes
+Database Administrator,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No
+Data Scientist,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No
+Cybersecurity Analyst,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes
+AI Engineer,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No
+Data Scientist,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No
+Cybersecurity Analyst,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No
+Cybersecurity Analyst,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Frontend Developer,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No
+DevOps Engineer,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No
+System Administrator,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes
+Cybersecurity Analyst,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Yes
+Frontend Developer,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes
+Database Administrator,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No
+Full Stack Developer,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes
+Backend Developer,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes
+Full Stack Developer,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No
+Cybersecurity Analyst,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No
+Cybersecurity Analyst,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No
+Backend Developer,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No
+Cloud Engineer,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+System Administrator,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes
+Software Engineer,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Yes
+Frontend Developer,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No
+AI Engineer,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes
+DevOps Engineer,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No
+DevOps Engineer,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No
+AI Engineer,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+DevOps Engineer,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+Full Stack Developer,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes
+Mobile App Developer,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No
+Cloud Engineer,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No
+Software Engineer,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No
+DevOps Engineer,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes
+DevOps Engineer,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No
+Cybersecurity Analyst,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No
+Backend Developer,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+System Administrator,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+Data Scientist,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No
+Software Engineer,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No
+Mobile App Developer,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+Cloud Engineer,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Database Administrator,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes
+DevOps Engineer,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes
+Full Stack Developer,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No
+Full Stack Developer,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes
+Backend Developer,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No
+Backend Developer,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Database Administrator,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes
+AI Engineer,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No
+Frontend Developer,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+Frontend Developer,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes
+Frontend Developer,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes
+System Administrator,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes
+Database Administrator,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes
+DevOps Engineer,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No
+Frontend Developer,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes
+Cybersecurity Analyst,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No
+DevOps Engineer,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes
+Frontend Developer,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No
+Cybersecurity Analyst,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+Mobile App Developer,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No
+Backend Developer,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No
+Data Scientist,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes
+Full Stack Developer,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes
+Cloud Engineer,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes
+Cybersecurity Analyst,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No
+AI Engineer,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes
+DevOps Engineer,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No
+Software Engineer,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes
+Data Scientist,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+AI Engineer,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+Cybersecurity Analyst,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No
+Software Engineer,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No
+Cybersecurity Analyst,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No
+Cybersecurity Analyst,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No
+Backend Developer,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No
+Mobile App Developer,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Cloud Engineer,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+Full Stack Developer,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No
+Cloud Engineer,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes
+System Administrator,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No
+Full Stack Developer,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Full Stack Developer,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No
+Full Stack Developer,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No
+Data Scientist,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+Software Engineer,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes
+Full Stack Developer,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No
+DevOps Engineer,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No
+DevOps Engineer,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No
+AI Engineer,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes
+Software Engineer,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+Full Stack Developer,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No
+Full Stack Developer,Yes,No,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+Frontend Developer,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No
+Cloud Engineer,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+Mobile App Developer,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes
+Backend Developer,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No
+System Administrator,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No
+Cybersecurity Analyst,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Full Stack Developer,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes
+Data Scientist,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No
+Cybersecurity Analyst,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Data Scientist,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes
+Frontend Developer,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes
+Cybersecurity Analyst,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No
+Mobile App Developer,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes
+Frontend Developer,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes
+Software Engineer,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No
+Database Administrator,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes
+Data Scientist,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+Cybersecurity Analyst,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes
+Cloud Engineer,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No
+System Administrator,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No
+Cloud Engineer,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No
+System Administrator,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No
+AI Engineer,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes
+System Administrator,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Mobile App Developer,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No
+Software Engineer,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes
+Data Scientist,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No
+Cloud Engineer,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes
+AI Engineer,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No
+AI Engineer,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No
+DevOps Engineer,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes
+DevOps Engineer,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No
+Data Scientist,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes
+Backend Developer,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No
+Full Stack Developer,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+Cybersecurity Analyst,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+Cloud Engineer,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+Data Scientist,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No
+Cybersecurity Analyst,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+Cloud Engineer,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes
+Mobile App Developer,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No
+Frontend Developer,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Backend Developer,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes
+Data Scientist,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No
+Mobile App Developer,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No
+AI Engineer,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No
+Software Engineer,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No
+Database Administrator,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+Database Administrator,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes
+Frontend Developer,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes
+Cloud Engineer,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No
+Database Administrator,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No
+AI Engineer,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes
+Cybersecurity Analyst,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No
+Backend Developer,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No
+DevOps Engineer,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes
+Full Stack Developer,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No
+DevOps Engineer,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No
+Mobile App Developer,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No
+Mobile App Developer,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes
+Software Engineer,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No
+Cloud Engineer,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+Frontend Developer,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes
+Data Scientist,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Cloud Engineer,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No
+Backend Developer,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No
+Cloud Engineer,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes
+Full Stack Developer,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes
+Frontend Developer,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes
+DevOps Engineer,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+Database Administrator,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No
+Full Stack Developer,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+Database Administrator,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+Backend Developer,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+System Administrator,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+Data Scientist,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Yes
+Cloud Engineer,No,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No
+System Administrator,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No
+Software Engineer,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No
+Data Scientist,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes
+Data Scientist,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+Cybersecurity Analyst,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Backend Developer,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes
+Database Administrator,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes
+Full Stack Developer,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No
+System Administrator,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes
+DevOps Engineer,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+System Administrator,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes
+Cloud Engineer,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes
+Cybersecurity Analyst,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No
+Cloud Engineer,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes
+AI Engineer,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No
+Software Engineer,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes
+System Administrator,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes
+AI Engineer,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes
+DevOps Engineer,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No
+System Administrator,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No
+Frontend Developer,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes
+Frontend Developer,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes
+DevOps Engineer,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+Database Administrator,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No
+AI Engineer,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No
+Data Scientist,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No
+Mobile App Developer,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes
+Cybersecurity Analyst,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No
+DevOps Engineer,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+DevOps Engineer,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Backend Developer,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No
+Data Scientist,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No
+DevOps Engineer,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes
+DevOps Engineer,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes
+System Administrator,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No
+DevOps Engineer,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes
+Mobile App Developer,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+System Administrator,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Full Stack Developer,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No
+AI Engineer,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes
+Data Scientist,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Frontend Developer,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No
+Data Scientist,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No
+Cybersecurity Analyst,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes
+System Administrator,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes
+DevOps Engineer,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+Database Administrator,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes
+Cybersecurity Analyst,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No
+Frontend Developer,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes
+Backend Developer,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No
+Database Administrator,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+DevOps Engineer,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+DevOps Engineer,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No
+Cybersecurity Analyst,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+Database Administrator,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No
+Data Scientist,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes
+Database Administrator,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No
+Full Stack Developer,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes
+Full Stack Developer,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes
+Frontend Developer,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No
+Data Scientist,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes
+Software Engineer,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No
+AI Engineer,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+Data Scientist,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+Software Engineer,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No
+Database Administrator,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No
+Software Engineer,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No
+DevOps Engineer,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Yes
+Backend Developer,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No
+AI Engineer,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+DevOps Engineer,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No
+Full Stack Developer,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+Data Scientist,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes
+AI Engineer,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No
+Database Administrator,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+Frontend Developer,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No
+Backend Developer,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,No
+Mobile App Developer,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No
+Data Scientist,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No
+Mobile App Developer,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes
+Full Stack Developer,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes
+System Administrator,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes
+DevOps Engineer,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes
+Backend Developer,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes
+Mobile App Developer,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No
+Database Administrator,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No
+Cybersecurity Analyst,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes
+AI Engineer,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes
+Mobile App Developer,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes
+DevOps Engineer,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes
+System Administrator,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No
+Database Administrator,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes
+Software Engineer,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes
+Backend Developer,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No
+AI Engineer,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+Software Engineer,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No
+Software Engineer,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+Cybersecurity Analyst,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No
+AI Engineer,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No
+Data Scientist,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes
+Software Engineer,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes
+Full Stack Developer,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes
+Full Stack Developer,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No
+Database Administrator,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No
+System Administrator,No,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No
+Software Engineer,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes
+DevOps Engineer,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+System Administrator,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes
+System Administrator,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes
+Cybersecurity Analyst,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes
+Database Administrator,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes
+Software Engineer,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No
+Frontend Developer,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+Frontend Developer,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes
+Software Engineer,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No
+Data Scientist,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+DevOps Engineer,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No
+Database Administrator,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes
+Database Administrator,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No
+DevOps Engineer,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No
+Cybersecurity Analyst,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+Data Scientist,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No
+Full Stack Developer,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No
+Cybersecurity Analyst,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+AI Engineer,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No
+Backend Developer,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+Database Administrator,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No
+AI Engineer,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No
+Cybersecurity Analyst,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No
+Mobile App Developer,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No
+Database Administrator,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes
+Backend Developer,No,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No
+Mobile App Developer,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes
+Full Stack Developer,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No
+Database Administrator,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes
+AI Engineer,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes
+AI Engineer,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No
+AI Engineer,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No
+System Administrator,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No
+DevOps Engineer,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No
+Cybersecurity Analyst,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No
+Database Administrator,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No
+Software Engineer,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No
+Data Scientist,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No
+AI Engineer,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes
+AI Engineer,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+Database Administrator,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes
+Cloud Engineer,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No
+Backend Developer,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No
+Frontend Developer,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes
+Data Scientist,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+Mobile App Developer,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No
+Mobile App Developer,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes
+Backend Developer,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes
+Software Engineer,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes
+Database Administrator,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No
+AI Engineer,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No
+DevOps Engineer,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No
+Cybersecurity Analyst,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+Software Engineer,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes
+System Administrator,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No
+Cybersecurity Analyst,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No
+Frontend Developer,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes
+Cybersecurity Analyst,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes
+Software Engineer,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No
+Backend Developer,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No
+DevOps Engineer,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
+Cloud Engineer,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+Mobile App Developer,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No
+Cloud Engineer,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No
+System Administrator,No,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Cybersecurity Analyst,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes
+Database Administrator,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes
+AI Engineer,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes
+Frontend Developer,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No
+Software Engineer,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No
+Frontend Developer,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Backend Developer,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes
+Software Engineer,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No
+Cloud Engineer,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes
+Frontend Developer,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+Data Scientist,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No
+Database Administrator,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes
+Full Stack Developer,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes
+Database Administrator,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No
+DevOps Engineer,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No
+Frontend Developer,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes
+Data Scientist,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No
+Data Scientist,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes
+Software Engineer,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes
+Frontend Developer,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Backend Developer,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes
+Database Administrator,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+Cybersecurity Analyst,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No
+Cybersecurity Analyst,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No
+Cybersecurity Analyst,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No
+Full Stack Developer,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes
+AI Engineer,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes
+Data Scientist,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No
+Frontend Developer,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes
+Backend Developer,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+System Administrator,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No
+Data Scientist,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No
+System Administrator,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes
+AI Engineer,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No
+Software Engineer,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes
+Cloud Engineer,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No
+Frontend Developer,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No
+Data Scientist,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes
+System Administrator,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No
+Frontend Developer,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes
+AI Engineer,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes
+Data Scientist,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No
+Cybersecurity Analyst,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No
+Database Administrator,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes
+Backend Developer,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No
+Full Stack Developer,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+DevOps Engineer,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No
+Frontend Developer,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes
+Database Administrator,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+Mobile App Developer,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No
+Cloud Engineer,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No
+Frontend Developer,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes
+Full Stack Developer,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No
+DevOps Engineer,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes
+System Administrator,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes
+Data Scientist,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes
+DevOps Engineer,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No
+AI Engineer,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+Database Administrator,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes
+Software Engineer,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No
+Mobile App Developer,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes
+Cloud Engineer,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No
+Full Stack Developer,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes
+DevOps Engineer,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No
+Frontend Developer,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No
+Backend Developer,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No
+AI Engineer,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No
+Frontend Developer,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes
+Mobile App Developer,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes
+Software Engineer,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes
+Full Stack Developer,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Software Engineer,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No
+Mobile App Developer,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No
+Cybersecurity Analyst,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes
+DevOps Engineer,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No
+Cloud Engineer,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes
+Backend Developer,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes
+AI Engineer,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No
+Mobile App Developer,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes
+Full Stack Developer,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Cybersecurity Analyst,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No
+System Administrator,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+System Administrator,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes
+Mobile App Developer,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No
+Database Administrator,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No
+Cybersecurity Analyst,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes
+Software Engineer,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No
+System Administrator,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No
+System Administrator,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No
+Mobile App Developer,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No
+Frontend Developer,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes
+Software Engineer,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+Full Stack Developer,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes
+AI Engineer,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes
+DevOps Engineer,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Cybersecurity Analyst,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No
+Frontend Developer,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes
+Cybersecurity Analyst,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes
+DevOps Engineer,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No
+Mobile App Developer,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No
+Frontend Developer,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+AI Engineer,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No
+Database Administrator,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No
+AI Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+Frontend Developer,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes
+Database Administrator,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,No
+System Administrator,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No
+Database Administrator,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No
+AI Engineer,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+DevOps Engineer,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No
+Data Scientist,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No
+Data Scientist,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No
+Backend Developer,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Mobile App Developer,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes
+Full Stack Developer,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No
+Full Stack Developer,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes
+System Administrator,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+AI Engineer,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Full Stack Developer,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No
+Mobile App Developer,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Software Engineer,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No
+Frontend Developer,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes
+Cloud Engineer,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No
+Backend Developer,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes
+DevOps Engineer,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No
+System Administrator,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes
+AI Engineer,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+Cloud Engineer,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No
+Data Scientist,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes
+AI Engineer,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes
+System Administrator,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes
+Full Stack Developer,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No
+System Administrator,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+Backend Developer,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes
+Full Stack Developer,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes
+Mobile App Developer,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No
+Software Engineer,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No
+AI Engineer,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes
+Cloud Engineer,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes
+Full Stack Developer,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No
+AI Engineer,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No
+AI Engineer,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No
+Database Administrator,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No
+Database Administrator,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No
+System Administrator,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+Database Administrator,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes
+System Administrator,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes
+Database Administrator,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes
+Data Scientist,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes
+Cybersecurity Analyst,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No
+Mobile App Developer,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+System Administrator,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+Full Stack Developer,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No
+Cloud Engineer,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes
+DevOps Engineer,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Backend Developer,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes
+Cloud Engineer,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No
+Mobile App Developer,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No
+System Administrator,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No
+Backend Developer,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No
+Software Engineer,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+System Administrator,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Frontend Developer,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes
+DevOps Engineer,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No
+Backend Developer,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes
+AI Engineer,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes
+DevOps Engineer,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Data Scientist,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes
+System Administrator,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes
+Frontend Developer,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Cybersecurity Analyst,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No
+DevOps Engineer,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No
+DevOps Engineer,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No
+Cloud Engineer,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes
+Backend Developer,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+System Administrator,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes
+Software Engineer,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Software Engineer,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes
+Cloud Engineer,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes
+AI Engineer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes
+AI Engineer,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes
+Data Scientist,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No
+AI Engineer,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Software Engineer,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No
+Mobile App Developer,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No
+Database Administrator,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No
+Mobile App Developer,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes
+System Administrator,No,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Cybersecurity Analyst,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes
+Full Stack Developer,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No
+DevOps Engineer,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No
+Frontend Developer,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+Frontend Developer,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Backend Developer,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No
+Cloud Engineer,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes
+Full Stack Developer,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No
+Data Scientist,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No
+Mobile App Developer,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No
+System Administrator,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes
+AI Engineer,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes
+Software Engineer,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No
+Data Scientist,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No
+Full Stack Developer,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Frontend Developer,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes
+Mobile App Developer,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No
+Mobile App Developer,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No
+AI Engineer,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No
+AI Engineer,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes
+System Administrator,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes
+AI Engineer,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No
+AI Engineer,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No
+Cloud Engineer,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes
+Data Scientist,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No
+Database Administrator,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+AI Engineer,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No
+Database Administrator,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes
+Software Engineer,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+DevOps Engineer,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+Frontend Developer,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No
+Frontend Developer,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Backend Developer,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No
+System Administrator,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No
+Backend Developer,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes
+Cybersecurity Analyst,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No
+Full Stack Developer,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No
+AI Engineer,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No
+DevOps Engineer,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes
+Cybersecurity Analyst,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No
+Frontend Developer,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No
+Software Engineer,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No
+Backend Developer,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes
+Software Engineer,No,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No
+AI Engineer,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No
+Cybersecurity Analyst,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes
+Backend Developer,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No
+DevOps Engineer,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+Software Engineer,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+Frontend Developer,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No
+Data Scientist,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No
+DevOps Engineer,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No
+Backend Developer,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes
+Frontend Developer,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No
+Mobile App Developer,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No
+Database Administrator,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No
+Database Administrator,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Database Administrator,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes
+Full Stack Developer,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Full Stack Developer,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No
+Cybersecurity Analyst,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Cloud Engineer,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No
+Full Stack Developer,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No
+Data Scientist,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No
+DevOps Engineer,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes
+Cloud Engineer,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes
+AI Engineer,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+Cloud Engineer,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes
+Database Administrator,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No
+Cybersecurity Analyst,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No
+Backend Developer,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes
+AI Engineer,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No
+DevOps Engineer,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+Cybersecurity Analyst,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Yes
+Cloud Engineer,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+Backend Developer,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes
+Data Scientist,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,No
+Mobile App Developer,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No
+Database Administrator,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+Software Engineer,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes
+Cloud Engineer,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No
+AI Engineer,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes
+Frontend Developer,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes
+Database Administrator,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+Cloud Engineer,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes
+Frontend Developer,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No
+Cybersecurity Analyst,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Cybersecurity Analyst,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No
+Backend Developer,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes
+Database Administrator,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No
+Cloud Engineer,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No
+DevOps Engineer,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No
+Cybersecurity Analyst,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No
+Database Administrator,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No
+Backend Developer,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No
+Full Stack Developer,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+Data Scientist,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes
+AI Engineer,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No
+Frontend Developer,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes
+Software Engineer,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes
+DevOps Engineer,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes
+Data Scientist,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No
+DevOps Engineer,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+DevOps Engineer,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes
+DevOps Engineer,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No
+Data Scientist,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes
+Full Stack Developer,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No
+Full Stack Developer,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No
+Full Stack Developer,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes
+Backend Developer,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No
+Full Stack Developer,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+System Administrator,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+Cloud Engineer,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+System Administrator,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Backend Developer,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No
+Mobile App Developer,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No
+System Administrator,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No
+Mobile App Developer,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Full Stack Developer,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Backend Developer,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No
+System Administrator,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+System Administrator,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No
+Software Engineer,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No
+Cybersecurity Analyst,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No
+Cybersecurity Analyst,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+Database Administrator,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No
+Frontend Developer,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes
+Frontend Developer,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes
+System Administrator,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No
+Mobile App Developer,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No
+Full Stack Developer,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No
+Database Administrator,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No
+Full Stack Developer,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No
+System Administrator,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No
+AI Engineer,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes
+Cloud Engineer,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No
+Software Engineer,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes
+Data Scientist,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes
+DevOps Engineer,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes
+Backend Developer,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes
+System Administrator,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes
+Mobile App Developer,No,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No
+System Administrator,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+System Administrator,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No
+Mobile App Developer,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes
+Database Administrator,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No
+AI Engineer,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+AI Engineer,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes
+Mobile App Developer,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Database Administrator,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes
+Full Stack Developer,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No
+Data Scientist,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes
+DevOps Engineer,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Software Engineer,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No
+AI Engineer,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No
+Full Stack Developer,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes
+Frontend Developer,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+Full Stack Developer,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No
+System Administrator,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No
+Mobile App Developer,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No
+Data Scientist,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No
+Cloud Engineer,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+Database Administrator,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+Backend Developer,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No
+Backend Developer,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+DevOps Engineer,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No
+Full Stack Developer,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No
+Backend Developer,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes
+DevOps Engineer,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+AI Engineer,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No
+Database Administrator,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No
+AI Engineer,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No
+Frontend Developer,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+System Administrator,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Data Scientist,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Yes
+Full Stack Developer,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes
+Mobile App Developer,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes
+DevOps Engineer,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes
+Mobile App Developer,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+Backend Developer,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No
+Mobile App Developer,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No
+Software Engineer,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+Mobile App Developer,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Software Engineer,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No
+Cybersecurity Analyst,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes
+Data Scientist,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes
+Frontend Developer,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+Mobile App Developer,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Mobile App Developer,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes
+Software Engineer,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes
+System Administrator,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes
+Database Administrator,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No
+Frontend Developer,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No
+Full Stack Developer,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No
+Mobile App Developer,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No
+Frontend Developer,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No
+Database Administrator,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+Cloud Engineer,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes
+DevOps Engineer,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No
+DevOps Engineer,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No
+Frontend Developer,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No
+Mobile App Developer,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No
+Cybersecurity Analyst,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes
+AI Engineer,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes
+DevOps Engineer,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No
+Cybersecurity Analyst,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes
+Software Engineer,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes
+Cybersecurity Analyst,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No
+Backend Developer,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No
+Cybersecurity Analyst,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No
+Mobile App Developer,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No
+Data Scientist,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes
+DevOps Engineer,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No
+Mobile App Developer,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes
+Cybersecurity Analyst,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No
+Backend Developer,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+DevOps Engineer,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+AI Engineer,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No
+Backend Developer,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes
+Cloud Engineer,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes
+Full Stack Developer,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No
+Frontend Developer,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes
+Software Engineer,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No
+Software Engineer,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No
+Frontend Developer,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No
+Full Stack Developer,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No
+Backend Developer,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes
+Database Administrator,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes
+Mobile App Developer,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No
+Database Administrator,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes
+Software Engineer,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+Mobile App Developer,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No
+Frontend Developer,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No
+Frontend Developer,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No
+System Administrator,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes
+Frontend Developer,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No
+Full Stack Developer,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No
+Mobile App Developer,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes
+Mobile App Developer,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No
+Full Stack Developer,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes
+Full Stack Developer,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+DevOps Engineer,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No
+AI Engineer,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No
+Cybersecurity Analyst,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No
+Frontend Developer,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No
+Database Administrator,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes
+Cybersecurity Analyst,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No
+DevOps Engineer,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Software Engineer,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes
+Data Scientist,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No
+Software Engineer,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes
+Software Engineer,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes
+System Administrator,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+System Administrator,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes
+Mobile App Developer,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes
+System Administrator,No,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+Cloud Engineer,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes
+AI Engineer,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+AI Engineer,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes
+AI Engineer,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+Cybersecurity Analyst,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No
+Software Engineer,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No
+Data Scientist,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes
+Frontend Developer,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes
+Cybersecurity Analyst,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No
+Database Administrator,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No
+Software Engineer,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No
+Frontend Developer,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No
+Mobile App Developer,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No
+AI Engineer,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No
+Full Stack Developer,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes
+Backend Developer,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Data Scientist,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes
+DevOps Engineer,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes
+DevOps Engineer,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes
+Mobile App Developer,No,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No
+AI Engineer,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No
+Frontend Developer,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No
+Cybersecurity Analyst,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No
+Data Scientist,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No
+Backend Developer,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No
+Backend Developer,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No
+Full Stack Developer,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes
+AI Engineer,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No
+Full Stack Developer,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes
+Backend Developer,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes
+AI Engineer,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No
+Full Stack Developer,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No
+Backend Developer,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+Data Scientist,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes
+Database Administrator,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No
+Cloud Engineer,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes
+Frontend Developer,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Cybersecurity Analyst,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No
+Cloud Engineer,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+DevOps Engineer,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No
+System Administrator,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Frontend Developer,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No
+Backend Developer,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No
+Full Stack Developer,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes
+Data Scientist,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes
+Mobile App Developer,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes
+Software Engineer,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes
+Frontend Developer,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+DevOps Engineer,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No
+Frontend Developer,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No
+Data Scientist,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No
+Mobile App Developer,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes
+Frontend Developer,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes
+Software Engineer,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+Database Administrator,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No
+Cybersecurity Analyst,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes
+Data Scientist,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+Frontend Developer,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes
+System Administrator,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No
+Database Administrator,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes
+Full Stack Developer,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes
+Data Scientist,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No
+Cloud Engineer,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No
+Data Scientist,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes
+Mobile App Developer,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes
+System Administrator,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes
+Full Stack Developer,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No
+Full Stack Developer,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes
+Database Administrator,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes
+Mobile App Developer,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+Software Engineer,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No
+Cloud Engineer,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No
+Backend Developer,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes
+Data Scientist,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes
+Data Scientist,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No
+Software Engineer,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+System Administrator,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No
+Mobile App Developer,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No
+Mobile App Developer,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+Software Engineer,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No
+Cybersecurity Analyst,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes
+Data Scientist,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+System Administrator,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No
+System Administrator,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No
+Database Administrator,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No
+Cloud Engineer,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No
+System Administrator,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No
+Data Scientist,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No
+DevOps Engineer,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes
+DevOps Engineer,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No
+System Administrator,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No
+Cloud Engineer,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No
+Cybersecurity Analyst,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes
+Backend Developer,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes
+Frontend Developer,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No
+Cloud Engineer,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Software Engineer,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Mobile App Developer,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No
+Backend Developer,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No
+Software Engineer,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No
+Full Stack Developer,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No
+Backend Developer,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No
+AI Engineer,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes
+AI Engineer,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes
+Database Administrator,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes
+Cloud Engineer,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+DevOps Engineer,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes
+Mobile App Developer,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+Software Engineer,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+Cybersecurity Analyst,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+Full Stack Developer,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No
+Frontend Developer,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+Software Engineer,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes
+AI Engineer,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes
+DevOps Engineer,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+Cybersecurity Analyst,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No
+DevOps Engineer,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No
+Cloud Engineer,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No
+Data Scientist,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+Data Scientist,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+DevOps Engineer,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes
+Cybersecurity Analyst,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No
+Mobile App Developer,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+Mobile App Developer,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes
+Cybersecurity Analyst,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No
